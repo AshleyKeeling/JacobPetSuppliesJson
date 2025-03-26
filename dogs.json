@@ -5,7 +5,7 @@
       "age": 3,
       "breed": "Golden Retriever",
       "size": "Large",
-      "image": "https://example.com/images/buddy.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Labrador_Retriever_portrait.jpg/1200px-Labrador_Retriever_portrait.jpg"
     },
     {
       "name": "Luna",
@@ -19,14 +19,14 @@
       "age": 4,
       "breed": "German Shepherd",
       "size": "Large",
-      "image": "https://example.com/images/max.jpg"
+      "image": "https://blog.gudog.co.uk/wp-content/uploads/2023/11/german-sherperd.jpeg"
     },
     {
       "name": "Daisy",
       "age": 1,
       "breed": "Cocker Spaniel",
       "size": "Medium",
-      "image": "https://example.com/images/daisy.jpg"
+      "image": "https://www.dailypaws.com/thmb/QjJ24xSdAj-Ey9fqF6xrUAr-oq0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/coltralian-begging-littleleafhunter-52688a0236f4477ea538bc95f2464df5.jpg"
     }
   ]
 }
