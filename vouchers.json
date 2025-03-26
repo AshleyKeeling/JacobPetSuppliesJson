@@ -1,0 +1,16 @@
+{
+  "vouchers": [
+    {
+      "name": "10% Off Pet Food",
+      "image": "https://example.com/images/10-percent-off-pet-food.jpg"
+    },
+    {
+      "name": "Buy One Get One Free on Toys",
+      "image": "https://example.com/images/bogo-toys.jpg"
+    },
+    {
+      "name": "£5 Off Orders Over £30",
+      "image": "https://example.com/images/5-off-30.jpg"
+    }
+  ]
+}
