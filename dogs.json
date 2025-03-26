@@ -1,0 +1,32 @@
+{
+  "dogs": [
+    {
+      "name": "Buddy",
+      "age": 3,
+      "breed": "Golden Retriever",
+      "size": "Large",
+      "image": "https://example.com/images/buddy.jpg"
+    },
+    {
+      "name": "Luna",
+      "age": 2,
+      "breed": "French Bulldog",
+      "size": "Small",
+      "image": "https://example.com/images/luna.jpg"
+    },
+    {
+      "name": "Max",
+      "age": 4,
+      "breed": "German Shepherd",
+      "size": "Large",
+      "image": "https://example.com/images/max.jpg"
+    },
+    {
+      "name": "Daisy",
+      "age": 1,
+      "breed": "Cocker Spaniel",
+      "size": "Medium",
+      "image": "https://example.com/images/daisy.jpg"
+    }
+  ]
+}
