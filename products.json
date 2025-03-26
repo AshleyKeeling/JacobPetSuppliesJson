@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "Grain-Free Chicken Dog Food",
+      "price": 29.99,
+      "category": "Dog Food",
+      "end_of_the_line": false,
+      "image": "https://example.com/images/grain-free-chicken-dog-food.jpg"
+    },
+    {
+      "name": "Durable Chew Toy",
+      "price": 12.49,
+      "category": "Toys",
+      "end_of_the_line": true,
+      "image": "https://example.com/images/durable-chew-toy.jpg"
+    },
+    {
+      "name": "Cozy Pet Bed",
+      "price": 39.99,
+      "category": "Pet Accessories",
+      "end_of_the_line": false,
+      "image": "https://example.com/images/cozy-pet-bed.jpg"
+    }
+  ]
+}
