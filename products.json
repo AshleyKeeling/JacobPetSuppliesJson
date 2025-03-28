@@ -2,24 +2,24 @@
   "products": [
     {
       "name": "Collards Salmon and Potato Adult Dry Dog Food - 10kg",
-      "price": 29.99,
+      "price": 9.95,
       "category": "Dog Food",
       "end_of_the_line": false,
-      "image": "https://www.petsandfriends.co.uk/cdn/shop/files/Ecom-Pannels-Collards10kgSalmon-Dry_f4d133d9-7df8-4390-ae43-fd4316a4c8a3_500x500.jpg?v=1712600410"
+      "image": "https://www.petsandfriends.co.uk/cdn/shop/files/Ecom-Pannels-Collards10kgSalmon-Dry_f4d133d9-7df8-4390-ae43-fd4316a4c8a3_500x500.jpg"
     },
     {
-      "name": "Durable Chew Toy",
+      "name": "Collards Turkey and Rice Adult Dry Dog Food - 10kg",
       "price": 12.49,
-      "category": "Toys",
+      "category": "Dog Food",
       "end_of_the_line": true,
-      "image": "https://example.com/images/durable-chew-toy.jpg"
+      "image": "https://www.petsandfriends.co.uk/cdn/shop/files/Ecom-Pannels-Collards10kgTurkey-Dry_d7b5c35b-57b8-4d5f-b345-4b7affb90126_500x500.jpg"
     },
     {
       "name": "Cozy Pet Bed",
       "price": 39.99,
       "category": "Pet Accessories",
       "end_of_the_line": false,
-      "image": "https://example.com/images/cozy-pet-bed.jpg"
+      "image": "https://www.petsandfriends.co.uk/cdn/shop/products/DoveChateauBoxBedLS2_500x500.jpg"
     }
   ]
 }
