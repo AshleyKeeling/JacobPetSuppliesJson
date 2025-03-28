@@ -21,5 +21,12 @@
       "end_of_the_line": false,
       "image": "https://www.petsandfriends.co.uk/cdn/shop/products/DoveChateauBoxBedLS2_500x500.jpg"
     }
+    {
+      "name": "Durable Dog Toy",
+      "price": 12.99,
+      "category": "Dog Toy",
+      "end_of_the_line": true,
+      "image": "https://healthypetstore.co.uk/app/uploads/2024/04/KONG-Goodie-Bone-NOPK.png"
+    }
   ]
 }
